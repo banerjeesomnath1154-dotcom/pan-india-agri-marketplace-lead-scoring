@@ -85,11 +85,9 @@ To guarantee strict compliance across Python data engineering, SQLite database q
    Open `excel/fpo_marketplace_lead_reconciliation.xlsx` to inspect formulas and variance checks.
 
 ---
----
 
 ## 👤 Author & Contact
 * **Author:** Somnath Banerjee
-* **Role:** Aspiring Business Analyst & Geospatial BI Specialist
+* **Role:** Aspiring Agri-Business Analyst & Geospatial BI Specialist
 * **LinkedIn:** linkedin.com/in/somnath-banerjee-621720239
 * **GitHub:** https://github.com/banerjeesomnath1154-dotcom
-
